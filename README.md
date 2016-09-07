@@ -2,7 +2,7 @@
 
 
 ## Screenshots
-<img src="image/exercise-screenshot.png">
+<img src="images/exercise-screenshot.png">
 
 ## Description
 Click anywhere on screen and either a right or left arrow will generate randomly. Really, it's not the best way to direct air traffic... but it's a good spontaneous road trip tool, I guess. Hop in the car, and at every intersection click the screen to see which way you should turn. 
