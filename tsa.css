@@ -1,0 +1,12 @@
+.bodybackground {
+	background-color: darkgrey;
+}
+
+h2, .arrow {
+	text-align: center;
+}
+
+#arrowimage {
+	width: 300px;
+	height: 150px;
+}
